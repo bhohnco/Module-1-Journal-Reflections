@@ -3,11 +3,11 @@
 **Describe one of your strengths**
 
 **What is something you have learned to do well (list a skill)?**
-I can…
+//I have learned to build a lot of things with my hands. DIY home projects, woodworking pieces, and general construction. //
 **What is something you know about (list some knowledge/expertise you have)?**
-I know…
+//I know a lot about logistics, shipping patterns, and importation. //
 **What is something you have a natural ability to do well (list a talent)?**
-I am…
+//I am artistic. I can draw and paint well.// 
 
 **How could you combine these to describe a specific strength?**
 
