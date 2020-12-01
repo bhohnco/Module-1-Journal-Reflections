@@ -3,19 +3,22 @@
 **Describe one of your strengths**
 
 **What is something you have learned to do well (list a skill)?**
-//I have learned to build a lot of things with my hands. DIY home projects, woodworking pieces, and general construction. //
+>I have learned to build a lot of things with my hands. DIY home projects, woodworking pieces, and general construction. 
 **What is something you know about (list some knowledge/expertise you have)?**
-//I know a lot about logistics, shipping patterns, and importation. //
+>I know a lot about logistics, shipping patterns, and importation. 
 **What is something you have a natural ability to do well (list a talent)?**
-//I am artistic. I can draw and paint well.// 
+>I am artistic. I can draw and paint well.
 
 **How could you combine these to describe a specific strength?**
+>I believe I'm a fast learner and pick up on things fairly quickly. I like a challenge and I'm willing to put in the hard work to accomplish it. 
 
 *Read through your Top 4 results from Pairin*
 
 **In your own words, what do these top 4 qualities tell you about yourself?**
+These qualities make me happy with the person I've become. I think these qualities are acurate with how I view and approach the world. Also, how I approach my professional life and career. I think I have a nice balance of all 4 qualities, and use them in the right way. 
 
 **Do they resonate with you? Why/why not?**
+They do resonate with me. I take pride in being imaginative and having a can do attitude. I think its helpful when approaching any challenge in life, and goes a long way when I feel stuck or unmotivated. I feel that I'm very authentic and truthful, and do not try to be someone I'm not. 
 
 **How do they relate to the strength you wrote about in Prompt #1?**
 
@@ -34,6 +37,7 @@
 **What would you need to be aware of when working with people who have different strengths from you?**
 
 **How could your Pairin results help you better understand your everyday working preferences?**
+
 Continued growth
 
 **Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?**
