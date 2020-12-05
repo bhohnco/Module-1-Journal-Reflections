@@ -21,31 +21,33 @@ These qualities make me happy with the person I've become. I think these qualiti
 They do resonate with me. I take pride in being imaginative and having a can do attitude. I think its helpful when approaching any challenge in life, and goes a long way when I feel stuck or unmotivated. I feel that I'm very authentic and truthful, and do not try to be someone I'm not. 
 
 **How do they relate to the strength you wrote about in Prompt #1?**
-
+They relate to me being artistic, picking up new tasks and hobbies quickly (woodworking,DIY) and having an optimistic modd and view on life. 
 *Challenges with strengths*
 
 **What can make it challenging to recognize your strengths? How can you work through those challenges?**
+Feeling overwhelmed or feeling like you don't have many strengths. Feeling not confident in myself. 
+Working through those feelings and recongnizing that they are real, but not the truth. Reminding myself that I'm capiable and a hard worker. 
 
 **Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?**
-
+Yes. I see myself overworking sometimes and pushing myself when I need to take a break. Also, going into a new situation with too much confidence or not enough. I would want to use (overworking) it less during the learning process and give myself some room to grow and recharge. I'm starting to adjust my approach towards it durning coding work and turing in general. Reminding myself that breaks are good for my body and mind. Also, helps with stress management. 
 *Strengths in action*
 
 **Write 1-2 sentences describing how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?)**
-
+I like to see what work needs to be done, learn as much about the correct way to approach it, and then get my hands dirty working through the task at hand. I'm more of a hands on learner and do better with practice and learning from that practice. 
 **How could you describe these working preferences to your project teammates? Your mentor? Your instructors?**
-
+That I'm a visual/hands on learner that does better when I'm working through something and value the teamwork process in learning something together. 
 **What would you need to be aware of when working with people who have different strengths from you?**
-
+That not everyone has the same strengths as me and that most people will have different strengths. These can be hard to reconginize at first and determine, but I think working with people who have different strengths than yourself is a help way to grow and develop as a professional. 
 **How could your Pairin results help you better understand your everyday working preferences?**
-
-Continued growth
+Reading more about the results and reflecting on what I recongnize to be true. Leaning more into learning about my strengths and how to best use them in a professional setting. Overall just learning more about myself so I can see where I need to improve. 
+**Continued growth**
 
 **Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?**
-
+I'd like to sharpen my computer skills and general typing ability. Organizational skills and keeping better track of the things I need to do week by week. 
 **What are some steps you could take here?**
-
+Read more about ways I can sharpen both skills, and put the things I learn into practice. Track my progress week by week to see improvement or ways to increase these skills. Writing to do lists with actions that help with these skills. 
 **How could you be aware of progress you’re making?**
-
+Track and write down the small wins or setbacks. Learn from mistakes and also recongnize when I've made progress. But keep the progress up and stay with the process. Knowing that it will take time and not happen overnight. Not getting down on myself when I do not see change quick enough. Staying the course. 
 
 
 
