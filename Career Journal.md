@@ -6,9 +6,12 @@ Week 2: [Link here to your gist]
 **Power of self-reflection**
 **What is challenging about self-reflection?**
 >Its hard to look into yourself and think about things you do well or need to work on. It's also hard to think about yourself objectively. 
+
 **How can you continue to build the habit of self-reflection at Turing?**
 >By using a journal and reflecting on things you're doing well, or need to work on. By practicing daily reflection and using it to grow. 
+
 **Social identity mapping**
+
 **First, create you own social identity map on a piece of paper (or print this out):**
 
 **Outer ring: write words that describe your given identity
@@ -22,9 +25,9 @@ Put a - beside the items that you believe do not demonstrate that you fit into t
 Put a ? beside the items that you're unsure how they could show your ability to contribute to the tech industry
 Reflect:
 
-What does your social identity tell you about what you already bring to the tech industry? 
+**What does your social identity tell you about what you already bring to the tech industry? **
 >That I've had a diverse work background and understanding of different work cultures and areas. Also that listening and reflecting back is very important to me, and that I find it helpful in a professional setting. 
-What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry? 
+**hat would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry? **
 >I think some of my minuses could be worked on or adjusted through self reflection and hard work. I belevie I would need to make a plan of attack to address these things and make them more concrete professional skills. 
 **Values mapping Pull out 5 values for each bullet below from this list:**
 **Always valued:** >Hard work. 
