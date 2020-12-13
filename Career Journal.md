@@ -25,10 +25,12 @@ Put a - beside the items that you believe do not demonstrate that you fit into t
 Put a ? beside the items that you're unsure how they could show your ability to contribute to the tech industry
 Reflect:
 
-**What does your social identity tell you about what you already bring to the tech industry? **
+**What does your social identity tell you about what you already bring to the tech industry?**
 >That I've had a diverse work background and understanding of different work cultures and areas. Also that listening and reflecting back is very important to me, and that I find it helpful in a professional setting. 
-**hat would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry? **
+
+**What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry?**
 >I think some of my minuses could be worked on or adjusted through self reflection and hard work. I belevie I would need to make a plan of attack to address these things and make them more concrete professional skills. 
+
 **Values mapping Pull out 5 values for each bullet below from this list:**
 **Always valued:** >Hard work. 
 **Often valued:** >Connection
