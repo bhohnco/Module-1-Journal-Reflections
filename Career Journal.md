@@ -1,3 +1,57 @@
+**Mod 1 Week 2: Building Your Compass**
+**Answer the below questions in a separate gist and link them into your career journal using this template:**
+
+Week 2: [Link here to your gist]
+
+**Power of self-reflection**
+**What is challenging about self-reflection?**
+>Its hard to look into yourself and think about things you do well or need to work on. It's also hard to think about yourself objectively. 
+**How can you continue to build the habit of self-reflection at Turing?**
+>By using a journal and reflecting on things you're doing well, or need to work on. By practicing daily reflection and using it to grow. 
+**Social identity mapping**
+**First, create you own social identity map on a piece of paper (or print this out):**
+
+**Outer ring: write words that describe your given identity
+Middle ring: list aspects of your chosen identity
+Center: write your core attributes—traits, behaviors, beliefs, values, characteristics, and skills that you think make you unique as an individual. Select things that are enduring and key to who you are.
+After you complete your map:**
+
+Underline the items that are important to you
+Put a + beside the items that you believe clearly demonstrate that you fit into the tech industry
+Put a - beside the items that you believe do not demonstrate that you fit into the tech industry
+Put a ? beside the items that you're unsure how they could show your ability to contribute to the tech industry
+Reflect:
+
+What does your social identity tell you about what you already bring to the tech industry? 
+>That I've had a diverse work background and understanding of different work cultures and areas. Also that listening and reflecting back is very important to me, and that I find it helpful in a professional setting. 
+What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry? 
+>I think some of my minuses could be worked on or adjusted through self reflection and hard work. I belevie I would need to make a plan of attack to address these things and make them more concrete professional skills. 
+**Values mapping Pull out 5 values for each bullet below from this list:**
+**Always valued:** >Hard work. 
+**Often valued:** >Connection
+**Sometimes valued:** >Success 
+**Seldom valued:** >Laziness
+**Reflect:** >Using the strengths I have to work on the strengths I lack. Growing myself professionally and being more well rounded. 
+
+**What do these values tell you about yourself?**
+>That I beleive hard work goes a long way in life, and having a strong value of that can blend into other aspects of your life and career.
+
+**Workview & Lifeview**
+**Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you)**:
+>Worth while work to me looks like teamwork, connection, challenging work, and professional growth. 
+**Lifeview: summarize what you value in life; what matters to you?**
+>Family and friends, a successful marriage, connection, fufillment, and safety. 
+**Where do your views on work and life complement each other?**
+>I tend to have my professional work ethic blend into my life and living outside of work. I give it my all when approaching tasks outside of work, and try to approach it with a positive attitude. 
+**Where do they clash?**
+>With my time management and the ability to recognize the difference between the two. 
+**Does one drive the other?**
+>Currently my work life drives my life outside of work. 
+**How?**
+>It tends to take over any of my life outside of work. 
+
+
+
 **Mod 1 Week 1: Understanding your strengths**
 
 **Describe one of your strengths**
