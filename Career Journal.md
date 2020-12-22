@@ -1,3 +1,22 @@
+**Habits of a Software Developer**
+
+**What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?**
+>Someone who is constantly growing & looking for ways to improve. Self motivated. I think they're flexible & patience, & always willing to help. I would think that they are confident in who they are & what they can or can't do. 
+**What are the habits that this person demonstrates to embody the identity of a software developer?**
+>Pratice, pratice, pratice. Working through challenging problems and good at breaking things down piece by piece. 
+**Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?**
+>I would like to be similar to the person I described above. I'm confident in some areas of my life, but need to become more conifdent professionally. I need to >practice more and find time to work through areas I get stuck in. I plan on putting more time into my calendar for working on these areas.  
+**Working on the 1st Law of Behavior Change: Make it Obvious**
+
+**Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral.**
+
+**Pick 1 new habit you’d like to build and create an implementation intention following this template: “I will [BEHAVIOR] at [TIME] in [LOCATION].” Then, stack the habit onto something you already do: “After [CURRENT HABIT], I will [NEW HABIT].” (Hint: make this highly specific and immediately actionable)**
+>After making coffee in the morning, I will start my morning workout. 
+**Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes?**
+>I can wake up earlier and dedicate more time to my new postive habits. For bad habits, trying to element the option of them. For example, eating healther by not >buying junk food and purchasing more fruits and vegetables. Being smarter about what I'm putting in my body, and also how I'm burning off excess energy and >stress.
+**Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit?**
+>I found it helpful so far, but need to stay more consistant with it all. The results were mixed, as I only did it half of the days but its a start. I will keep trying to make it a routine and get into the groove of this habit being linked to my other morning habits and tasks. 
+
 **Mod 1 Week 2: Building Your Compass**
 **Answer the below questions in a separate gist and link them into your career journal using this template:**
 
