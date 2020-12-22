@@ -3,6 +3,7 @@
 **What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?**
 
 >Someone who is constantly growing & looking for ways to improve. Self motivated. I think they're flexible & patience, & always willing to help. I would think that they are confident in who they are & what they can or can't do. 
+
 **What are the habits that this person demonstrates to embody the identity of a software developer?**
 
 >Pratice, pratice, pratice. Working through challenging problems and good at breaking things down piece by piece. 
