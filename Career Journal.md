@@ -3,20 +3,20 @@
 **Habits Reflection:**
 **How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been?**
 
->
+>I've been noticing the habits I use that are beneficial to my growth, and have been trying to implement them every day. I have started to work out in the morning before I log on to school. It has been helpful with stress and overall management of work load. I'm working on getting into a rhythm with it all. 
 
 **Start Where You Are (Empathize with the user -- you)
 Health: how you answer “how are you”; intersection of physical, mental, and emotional health**
 
 **How would you rate your overall health on a scale of 1-5? How do you currently make time for activities associated with your health? What is a small change you could make here to readjust your health ratings?**
 
->
+>I'd currently rate it at a 3. I do make time to go for walks, workout, or ride my bike. I could start meditating or try other tasks to assist with my mental health and wellness. I need to work in that area in my regards to my health.
 
 **Work: what you do**
 
 **Make a short list of all the ways you work right now; How much value do each of those things bring to your life? How are those activities purposeful for you?**
 
->
+>Study new lessons, practice new challenges, and trying new work/school related things. They all bring a different amount of value to my growth as a person and professional. They help me learn, challenge myself, and overall grow as a person. 
 
 **Play: what brings you joy? Think about joy just for the pure sake of doing it; everyone benefits from this kind of play**
 
