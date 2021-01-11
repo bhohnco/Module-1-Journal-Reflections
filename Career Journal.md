@@ -22,41 +22,43 @@ Health: how you answer “how are you”; intersection of physical, mental, and 
 
 **What activities do you do that bring you joy throughout an average week? In what ways could you make a small change to bring more joy into your life?**
 
->
+>Take my dog for a walk or throwing the ball for her. Playing an instrument or drawing. I could carve out time in my calendar to have dedicated time for things that bring me joy. Having it set on the calendar would make me more aware of taking the time out of my week to do that. 
 
 **Love: sense of connection; who are the people who matter in your life and how is love flowing to and from you and them?**
 
+> My wife, family, and friends. 
+
 **How does love currently show up in your life? How do you show love to others right now? What adjustments would you like to make in this area?**
 
->
+>It shows up in forms of caring and reaching out to check in on folks. Asking how people are doing and making time to listen. I would like to be present more and not thinking about school, futute projects, or being overall stressed. Making time to connect and compartmentalize my stress/tasks. 
 
 **Looking back at the 4 areas, do any problems emerge that you want to begin designing solutions for?**
 
->
+>Yes. I overall want to be better with stress management and my mental health. 
 
 **Define your needs, problem, and insights:**
 
 **Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program?**
 
->
+>I'm still thinking this one through and want to give it some more thought. 
 
 **Ideate -- challenge assumptions**
 
 **When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?**
 
->
+>Will come back to this.
 
 **Prototype -- start creating solutions**
 
 **What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?**
 
->
+>Will come back to this.
 
 **Test –- solutions**
 
 **Based on this week of reflections, write out your initial vision statement for your career:**
 
->
+>Will come back to this.
 
 
 Week 3:
