@@ -26,7 +26,7 @@ Health: how you answer “how are you”; intersection of physical, mental, and 
 
 **Love: sense of connection; who are the people who matter in your life and how is love flowing to and from you and them?**
 
-> My wife, family, and friends. 
+> My partner, family, and friends. We talk, check in on each-other and make sure we're doing alright with everything going on. 
 
 **How does love currently show up in your life? How do you show love to others right now? What adjustments would you like to make in this area?**
 
@@ -40,26 +40,25 @@ Health: how you answer “how are you”; intersection of physical, mental, and 
 
 **Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program?**
 
->I'm still thinking this one through and want to give it some more thought. 
+>Stress management, information retention, and overall happiness. I would like to have a better idea about my path and how to get there. What things I should be doing now to set myself up for success in the future and as a developer. I still need to find my groove and pace. I want to be more conifdent in my skills and as a person as a whole. Knowing what I can and can't do. 
 
 **Ideate -- challenge assumptions**
 
 **When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?**
 
->Will come back to this.
+>The assumption that they know everyting about coding and how to do it successfully. I can talk to my mentor more about it and get an understanding of what they do day to day at their job. Get a better understanding of thier role and how it plays into the company they work for. I want mine to have a good work life balance and be able to have a life outside of work. 
 
 **Prototype -- start creating solutions**
 
 **What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?**
 
->Will come back to this.
+>I would like to use what I learned at Turing in the field and be able to implement them to grow as a professional. I hope I don't struggle for over a year to find a job and get more into debt. I would love to work as a developer for some time of event company or for live music. I would find that work interesting and fufilling.  
 
 **Test –- solutions**
 
 **Based on this week of reflections, write out your initial vision statement for your career:**
 
->Will come back to this.
-
+>I hope to be successful in where ever my career takes me. To be challenged and also feel fulfilled in what I'm doing. 
 
 Week 3:
 
