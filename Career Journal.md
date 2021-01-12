@@ -1,3 +1,27 @@
+**Habits Reflection:**
+
+**How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been?**
+
+>
+
+**Design Thinking Reflection: Cultivating Beginner’s Mind**
+
+**How can beginner’s mind be helpful when it comes to thinking about your career and job search? What are some habits you could put into place to cultivate beginner’s mind regularly?**
+
+>
+
+**Optional additional reading: How to Cultivate Beginner’s Mind to Become a True Expert**
+
+**Go through the Flower Exercise brainstorming worksheets linked here. Then complete your Flower Exercise final worksheet here and link that finished worksheet here.**
+
+**Write out your top 5 strengths that you’ve seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?**
+
+>
+
+**Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):**
+
+>
+
 **Mod 1 Week 4: Creating Your Vision, Part I**
 
 **Habits Reflection:**
