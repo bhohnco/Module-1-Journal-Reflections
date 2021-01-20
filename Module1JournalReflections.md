@@ -2,25 +2,42 @@
 
 **How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been?**
 
->
+>I've noticed when I stick with habits that are productive to my growth and learning, I'm more happy and easier to be around. I feel better overall and more confident. I've been implementing more exercise and time for myself. Making sure I take breaks and step away from work to catch my breathe. The results have been really good, and I plan on stick with them. 
 
 **Design Thinking Reflection: Cultivating Beginner’s Mind**
 
 **How can beginner’s mind be helpful when it comes to thinking about your career and job search? What are some habits you could put into place to cultivate beginner’s mind regularly?**
 
->
+>Being more open to learning and trying new things. Having a mind set that you don't know everything, and thats okay. Understanding and being able to define what you do know and don't. I think putting in place time to read about new ideas and things to learn. Always try to grow and learn something new everyday, if possible. 
 
 **Optional additional reading: How to Cultivate Beginner’s Mind to Become a True Expert**
 
 **Go through the Flower Exercise brainstorming worksheets linked here. Then complete your Flower Exercise final worksheet here and link that finished worksheet here.**
 
+https://docs.google.com/document/d/1tTogmUzjIurMJ5g3raQ2ISI7Ge2a3S5LvpGY-QqgQco/edit?usp=sharing
+
 **Write out your top 5 strengths that you’ve seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?**
 
->
+my strengths
+> Problem solving
+> Team working and team building 
+> Learning mindset
+> Determined 
+> Perseverance 
+
+software strengths
+> Breaking things down into small steps
+> Team work
+> Mindset growth
+> Problem solving 
+> Determination 
+
+They overlap in a few areas and are very similar. They are slightly different as I need to get better at breaking things down into small steps, and taking on bigger problems. 
 
 **Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):**
 
->
+>I strive to grow, change, and adapt throughout my whole professional career with the mindset that you never stop learning. I intend to always have a >growth mindset, and be open to new things. I want to challenge myself to learn more from others, be open to new ideas, and think outside the box. I >will be confident in myself and my skills, and use that to adapt and pivot. I value nature and the outdoors, creating and designing new things, and >always looking for the silver lining in things. I want those ideals to transfer over into what I will do professionally. 
+
 
 **Mod 1 Week 4: Creating Your Vision, Part I**
 
