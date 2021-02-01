@@ -2,9 +2,16 @@
 
 **Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you?**
 
+>Getting up early before class and practicing some coding, or looking at the lessons for the day. Trying to come to class with any questions I had regarding the lessons I looked over. Taking breaks when stuck and also making time to work out and release stress. 
+>I think I can do a better job when it comes to reaching out for help and knowing when I hit my limit. Asking for help isn't a bad thing, and I need to do a better job of reframing that in my head. 
+
 **What processes would you like to try differently this module to become more effective at your work and as a software developer?**
 
+>Staying the course on pre-teaching and looking over anything we are going to cover beforehand. I find it help to have an idea of what we're going over and also it gives me time to take in the concepts at my own speed before turings speed takes back over. 
+
 **Setting intentions for this module: who do I want to be this module? What specific habits would help me get there? How are those habits tied to the identity of a software developer?**
+
+>
 
 **Incorporate temptation bundling to create a new habit by using this template:**
 
