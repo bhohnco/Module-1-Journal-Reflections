@@ -1,3 +1,29 @@
+**Mod 2 Week 2: Professional Storytelling & Branding**
+
+**Assess your habits from week 1: how did you spend your time this past week?**
+
+>
+
+**What was effective in your habits?**
+
+>
+
+**What could be more effective? What steps will you take to make that happen?**
+
+>
+
+**Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions who are you, why are you here, and what’s next? Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.**
+
+>
+
+**Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the lesson here.**
+
+>
+
+**What other steps will you take this week to update your branding or practice your story?**
+
+>
+
 **Mod 2 Week 1: Building Habits to Become a Software Developer, Part II**
 
 **Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you?**
@@ -11,18 +37,37 @@
 
 **Setting intentions for this module: who do I want to be this module? What specific habits would help me get there? How are those habits tied to the identity of a software developer?**
 
->
+>I want to be successful with the lessons and new material, and also lean into the struggle a little more. Ask for help when I need it and not be afraid of judgement. I plan on reaching out more when I'm stuck or having a hard time with an issue or problem. I beleive those are tied to growth and the growth mindset. Also understanding that no one does it alone, so why should you try to force that thinking? Be open to help and welcome it. 
 
 **Incorporate temptation bundling to create a new habit by using this template:**
 
-**After [CURRENT HABIT], I will [HABIT I NEED TO DO].
-After [HABIT I NEED], I will [HABIT I WANT TO DO].
-How to enjoy “hard” habits: Reframe your habits to consider their benefits rather than their drawbacks; name 3 habits that you have to do and explain the benefits of them. How do they further your goals longterm? How will they add to your processes as a successful developer? At the end of the day, how do they add to your life?**
+**After [making coffee], I will [work out].
+After [working out], I will [look over the lesson plan for the day].
+How to enjoy “hard” habits: Reframe your habits to consider their benefits rather than their drawbacks; name 3 habits that you have to do and explain the benefits of them.**
+
+>working out - it provides me more energy, less stess, and overall better happiness
+>eating health - mantain a healthy body weight, have more energy, and don't feel as sluggest or tired
+>reading - keeps my mind sharp, helps with writting and grammar, also helps me sleep at night by clearing my mind before bed. 
+
+**How do they further your goals longterm?**
+
+>by adding years to my life, holding myself accountable, and also having outlets for my mental health. 
+
+**How will they add to your processes as a successful developer?**
+
+>They will help me when I'm stressed at work or need to take a POM. They will help keep me balanced and also help keep confidence level up. They are things I can reach for when I need them or need to step away from it all. Leading me to come back in a better frame of mind and more cleared headed to address any work issues. 
+
+**At the end of the day, how do they add to your life?**
+
+>They keep me more blanced and present. Helping me to connect with loved ones and the moment. 
 
 **Environment design (optional 5-min. additional reading: Motivation is Overvalued. Environment Often Matters More): how does your environment set-up currently help you with your habits? How could it be improved to make it easier for you to follow through on your habits?**
 
+> I have an office dedicated to school and only school. I do not bring my work outside of my office so the rest of my home is for other parts of my life. I believe I could add a quiet meditation spot to my home to help me get away and destress. It's something I plan on doing in a few weeks. 
+
 **“When you start a new habit, it should take less than two minutes to do.” Read this 4-min article on how to stop procrastinating. Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer?**
 
+>I need to read the article and come back to this question. 
 
 **Mod 1 week 5**
 
