@@ -1,3 +1,53 @@
+**Mod 2 Week 3: Job Search Strategies**
+
+**Assess your habits from week 2:**
+**how did you spend your time this past week?** 
+
+>I spent it working on practice problems for our mid-mod assessment, working on our paired project, and spending some time with my family when I had some free time. Also worked out, did some painting, and also read a little. 
+
+**What was effective in your habits?**
+
+>Overall they were pretty effective. I was able to get up early each day to practice coding before class. The working out aspect has been helpful and made me more productive overall throughout the day. It has also helped me with sleep and being able to sleep through the night. Brought down my stress level. 
+
+**What could be more effective? What steps will you take to make that happen?**
+
+>Scheduling my time better and putting time blocks on my calendar for PD, and making time for myself. Being more mindful of things I need to do on top of my school work and project time. 
+
+Reflect on how you’ve spent your time so far at Turing to gauge your engagement and energy:
+
+**When have you been excited, focused, and enjoyed your work?**
+
+>When tackling a new problem or working through an issue with a team member. Seeing progress and eventually finding the solution. Going through the struggle together. 
+
+**When have you felt bored, restless, or unhappy?** 
+
+>When I haven't taking a break from work or am stuck and keep trying to push through to find the answer. Leads to a burnt out feeling and that I'll never be able to solve the problem. Breaks help with that. 
+
+**When do you feel energized in your work? When is your energy drained?**
+
+>In the morning, and having some quiet alone time to work through an issue or problem. Being able to focus on the task. I feel drained late at night when I should stop coding and try again the next day. Knowing when to quit for the day and not push myself when I'm clearly not doing good work. 
+
+**Setting up habits and routines to make time for the job search this module:**
+
+**Block out time on your calendar this week to work on your job search.**
+
+
+**When will you make this happen? How will you hold yourself accountable to this? What activities will you focus on during this time this week? What outcomes do you hope to reach by the end of this week because of these activities?**
+
+
+**Applying wayfinding to using job search resources**
+**Go through the resources listed here and explore 2-3 tools. List what you looked at here:**
+
+
+**Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn’t align with your vision, what will you try next? Decide what tools to bookmark to explore later.**
+
+
+**Find a job posting that aligns with your vision. What’s the posting? How does it align with what you’re looking for? Add it to your Huntr.**
+
+
+**What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.**
+
+
 **Mod 2 Week 2: Professional Storytelling & Branding**
 
 **Assess your habits from week 1: how did you spend your time this past week?**
