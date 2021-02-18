@@ -3,7 +3,7 @@
 **Assess your habits from week 2:**
 **how did you spend your time this past week?** 
 
->I spent it working on practice problems for our mid-mod assessment, working on our paired project, and spending some time with my family when I had some free time. Also worked out, did some painting, and also read a little. 
+>I spent it working on practice problems for our mid-mod assessment, working on our paired project, and spending some time with my family when I had some free time. Also worked out, did some painting, and also read a little. I thought I used my time better this week. 
 
 **What was effective in your habits?**
 
@@ -31,9 +31,18 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 
 **Block out time on your calendar this week to work on your job search.**
 
+>I have added 2 hours this week to work on PD and sructuring my job search. 
 
-**When will you make this happen? How will you hold yourself accountable to this? What activities will you focus on during this time this week? What outcomes do you hope to reach by the end of this week because of these activities?**
+**When will you make this happen?**
+>An hour today, 2/18 and an hour over the weekend. 
+**How will you hold yourself accountable to this?**
+>Putting the time in my calendar and making sure I spent time on it all. 
 
+**What activities will you focus on during this time this week?**
+>Working on PD questions, structuring my huntr board, and cleaning up LinkedIn. 
+
+**What outcomes do you hope to reach by the end of this week because of these activities?**
+>Having a good start to my job search board, being caught up on PD questions, and making more contacts on LinkedIn.
 
 **Applying wayfinding to using job search resources**
 **Go through the resources listed here and explore 2-3 tools. List what you looked at here:**
@@ -52,15 +61,15 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 
 **Assess your habits from week 1: how did you spend your time this past week?**
 
->
+>I was better with my habits compared to week one and dedicating more time to school, healther habits, and personal growth. Staying more on task and not getting distracted by outside things. Having a time and place to relax and unwind, but also be mindful of what I need to stay on top of work wise. 
 
 **What was effective in your habits?**
 
->
+>Linking habits together, and structuring them to my scheudle and when I have free time or a break. Being more mindful of stepping away in moments when I'm stuck and need a break from work. 
 
 **What could be more effective? What steps will you take to make that happen?**
 
->
+>Being more aware of time management and using my calendar more. Dedicated time to productive habits and actions. 
 
 **Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions who are you, why are you here, and what’s next? Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.**
 
@@ -72,7 +81,7 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 
 **What other steps will you take this week to update your branding or practice your story?**
 
->
+>Think and brainstorm about past work experiences. Think about ways to network and meet other people at Turing. Also, get virtual coffee with my mentor and other people that have finished the program. 
 
 **Mod 2 Week 1: Building Habits to Become a Software Developer, Part II**
 
