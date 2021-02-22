@@ -1,3 +1,68 @@
+**In week 4, you’ll have a job experience activity with employers. The next two prompts are designed to help you both prepare and reflect on that experience:**
+
+**Prepare for Job Experience: AEIOU**
+
+>
+**Activities: what questions do you have about the activities that a software developer does on a daily basis?**
+
+>
+**Environment: what questions do you have about the overall environment and culture of this workplace?**
+
+>
+**Interactions: what questions do you have about the team at this company? What do you hope to learn during this experience?**
+
+>
+**Objects: what questions do you have about the code or the product?**
+
+>
+**Users: what questions do you have about how the company interacts with their users?**
+
+>
+**After the Job Experience, reflect on the same questions; what are your takeaways from the activity?**
+
+>
+**Activities: what was engaging to the person/people you met with?**
+
+>
+**Environment: what did you notice about how they talked about the culture and environment of this company?**
+
+>
+**Interactions: what did you notice about your interactions with this person/people?**
+
+>
+**Objects: what did you learn about their approach to code and/or product development?**
+
+>
+**Users: what did you learn about their approach to their users?**
+
+>
+**What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?**
+
+>
+Ideas below are adapted from Atomic Habits by James Clear
+
+**Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?**
+
+>I spent a lot of time/most of my time working on prjects, working through JSfun and practice assessments, and also working on professional development. Waking up early to get started on work/study has been very effective. I'm able to spend the first few hours of the day warming up with code challenges, prepping for the lesson, or looking over notes from the class before. I could be more effective with my habits in the late afternoon, but stepping away from the computer and getting a good walk or bike ride in. I think that would help me be more productive in the afternoon and accomplish more in the evening. I will work on setting aside time from **4:00-4:30** to get outside and away from work. I will set that time up on my calendar so its scheduled and ready to go once class is over. 
+**the 2 minute habit work through**
+
+**Implement a reiforcement strategy: to make one of your habits more satisfying, what is a reward you can give yourself immediately after completing the habit? How will this reward encourage you to continue completing that habit?**
+
+>
+**“Don’t Break the Chain”: Use a habit tracker**
+
+**What is a habit that you want to make sure to do every day? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you’ve completed it? Could you automate the tracking? How will you do that?**
+
+>
+Need help? Check out one of these habit tracking apps
+
+**How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?**
+
+>
+**Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?**
+
+>
+
 **Mod 2 Week 3: Job Search Strategies**
 
 **Assess your habits from week 2:**
