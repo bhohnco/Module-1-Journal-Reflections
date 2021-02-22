@@ -17,11 +17,11 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 
 **When have you been excited, focused, and enjoyed your work?**
 
->When tackling a new problem or working through an issue with a team member. Seeing progress and eventually finding the solution. Going through the struggle together. 
+>When tackling a new problem or working through an issue with a team member. Seeing progress and eventually finding the solution. Going through the struggle together. Building something with a team or other person.
 
 **When have you felt bored, restless, or unhappy?** 
 
->When I haven't taking a break from work or am stuck and keep trying to push through to find the answer. Leads to a burnt out feeling and that I'll never be able to solve the problem. Breaks help with that. 
+>When I haven't taking a break from work or am stuck and keep trying to push through to find the answer. Leads to a burnt out feeling and that I'll never be able to solve the problem. Breaks help with that. Stepping away when I'm not getting anywhere and coming back with a fresh outlook. 
 
 **When do you feel energized in your work? When is your energy drained?**
 
@@ -46,16 +46,19 @@ Reflect on how you’ve spent your time so far at Turing to gauge your engagemen
 
 **Applying wayfinding to using job search resources**
 **Go through the resources listed here and explore 2-3 tools. List what you looked at here:**
-
+>I used builtIn, key values, JavaScript weekely. 
 
 **Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn’t align with your vision, what will you try next? Decide what tools to bookmark to explore later.**
 
+>I found a lot of copmpanies out there that share my values for professional work, work/life balance, and overall mission. I need to work on narrowing down my searches and find places that would be a good fit for me and what I'd like to accomplish at my first professional position outside of turing. 
 
 **Find a job posting that aligns with your vision. What’s the posting? How does it align with what you’re looking for? Add it to your Huntr.**
 
+>I found this company a job posting very interresting. I need to explore my vision and what I want out of my next job a little more, but looking and finding postings like this has become help in narrowing down that search and having a better understanding of what I want next. I've added a few job postings to my huntr. 
 
 **What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.**
 
+I will spend some time looking into companies more, taking notes about what I like in their culture and mission, and what I might not like. Start to form a structure/frame of what I'm looking for and trying to find in a job. 
 
 **Mod 2 Week 2: Professional Storytelling & Branding**
 
