@@ -2,43 +2,47 @@
 
 **Prepare for Job Experience: AEIOU**
 
->
 **Activities: what questions do you have about the activities that a software developer does on a daily basis?**
 
->
+> What does a normal day look like for you? What about a challenging/tough day? How is the work culture at your job? Do they offer much learning and growth oppourtunity? What brought you to this job? Whats the one thing you love the most about your job? One thing you do not like or wish was different at your place of work? 
+
 **Environment: what questions do you have about the overall environment and culture of this workplace?**
 
->
+>Is it diverse? Do they welcome new and outside ideas? Are they open to change and growth? Do you feel vauled there? 
+
 **Interactions: what questions do you have about the team at this company? What do you hope to learn during this experience?**
 
->
+>Is it much team based work or a mix of both? Do you enjoy working on a team and building off eachother? What do you enjoy the most about the team setting? I would love to learn about the culture, the work life balance, and overall feel of the enviroment 
 **Objects: what questions do you have about the code or the product?**
 
->
+>What systems or languges do they use? Did they have to learn any when they started the job? Which one do they enjoy using the most? What program is the most challenging to work with? 
+
 **Users: what questions do you have about how the company interacts with their users?**
 
->
+>Who is there end users? What is there target audience? Do they receive feedback from any users on user experience or errors? Do they do audits on UE and how to improve those? What is the time line for those type of events/workshops? 
 **After the Job Experience, reflect on the same questions; what are your takeaways from the activity?**
 
->
+>I thought it was very insightful and helpful. It opened my eyes to what my professional life might look like after turing. I found it to be a rewarding experience that was productive and useful to my growth and understanding of life after turing. 
+
 **Activities: what was engaging to the person/people you met with?**
 
->
+>They really enjoyed working the front end and website development. 
 **Environment: what did you notice about how they talked about the culture and environment of this company?**
 
->
+>I notived that they seemed very happy to be working where they did and overall loved the work enviroment they were in. They talked about how flexiable and understanding the management was, and what they were able to do with the company benefits. 
+
 **Interactions: what did you notice about your interactions with this person/people?**
 
->
+> I found that they were open to any questions and would try to answer any the best they could. They were honest about it all. 
 **Objects: what did you learn about their approach to code and/or product development?**
 
->
+>They like to build things from very small elements to big robust websites. Like tackling things in little bits until it was all complete and finsihed. One step at a time. 
 **Users: what did you learn about their approach to their users?**
 
->
+>They value feedback and use that to improve there site and user experience. They take feedback from investors and other people in the company and improve off of that. 
 **What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?**
 
->
+>I found it to be very helpful and opened my eyes to the possibilities in the coding world. It showed me that timing can be everything when it comes to landing the right job and position. Hard work pays off and is worth doing. Staying the course and pushing through hardships can lead to great and reqarding things. Also, not everyone in the coding world went to school. Some are self taught. 
 Ideas below are adapted from Atomic Habits by James Clear
 
 **Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?**
@@ -53,15 +57,17 @@ Ideas below are adapted from Atomic Habits by James Clear
 
 **What is a habit that you want to make sure to do every day? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you’ve completed it? Could you automate the tracking? How will you do that?**
 
->
+>I want to practice coding challeneges everyday before class starts. I manually check off my list of challenges once complete so I have the statisfaction of crossing them out and off my list. I need to find a better process for visually tracking it, but for now it works. 
+
 Need help? Check out one of these habit tracking apps
 
 **How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?**
 
->
+> If I miss a day, I try to make up for it the next day by spending more time on coding challenges or overall studying. This makes me feel better about it, but also makes me mindful of what I'm doing when I skip that habit. 
+
 **Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?**
 
->
+> Make a workout routine with my accountabilibuddy. We check in every week to see if we're on track or if we need to adjust anything to make it more streamlined. 
 
 **Mod 2 Week 3: Job Search Strategies**
 
